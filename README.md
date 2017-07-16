@@ -1,2 +1,2 @@
 # DotNetCoreFirstDemo
-FirstDemo
+FirstDemo to learn DotNet
